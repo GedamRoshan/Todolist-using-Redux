@@ -1,0 +1,17 @@
+.body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 500;
+    height: 400;
+    margin: 10px auto;
+
+
+}
+
+.h1_tag{
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
